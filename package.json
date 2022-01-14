@@ -12,5 +12,14 @@
   },
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anakinstone/javascript-profesional.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anakinstone/javascript-profesional/issues"
+  },
+  "homepage": "https://github.com/Anakinstone/javascript-profesional#readme"
 }
